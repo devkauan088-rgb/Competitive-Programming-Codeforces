@@ -11,6 +11,7 @@ Yo, this is my log of solving competitive programming problems. Starting from sc
 
 ## Progress
 | Platform | Solved | Current Rating |
+--------------------------------------
 | Codeforces | 1 | unrated |
 
 ## Structure
